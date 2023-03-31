@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+ol li{
+    color: brown;
+    margin-top: 25px
+}
+ul li{
+    color: brown;
+    letter-spacing: 5px;
+}
+li span{
+    background-color: yellow;
+}
+p{
+    color: darkgoldenrod;
+}
+a{
+    color: red;
+    text-decoration: none;
+    background-color: yellow;
+}
